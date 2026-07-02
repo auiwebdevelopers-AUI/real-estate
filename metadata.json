@@ -1,0 +1,6 @@
+{
+  "name": "Real Estate Platform",
+  "description": "A modern, high-fidelity real estate platform featuring property search, filter, detail views, agent profiles, contact integration, and favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
